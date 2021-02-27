@@ -63,14 +63,6 @@ export default function UsersList({ data }) {
 | `strokeWidth`| `integer`             | `2`                            |
 | `fill`       | `string`              | `none`                         |
 
-### Supported size
+### Predefined sizes
    
-`xs` 
-`sm` 
-`base`
-`lg` 
-`xl` 
-`2xl`
-`3xl`
-`4xl`
-`5xl`
+`xs` `sm` `base` `lg` `xl` `2xl` `3xl` `4xl` `5xl` 
