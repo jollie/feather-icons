@@ -55,6 +55,7 @@ export default function UsersList({ data }) {
 
 // Sizing
 const FeatherXL = () => <IconFeather size="xl" />;
+const Feather256 = () => <IconFeather size={256} />;
 
 // Tailwindcss
 const IconTailwindClass = () => <IconTrash className="text-red-700" />;
