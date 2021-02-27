@@ -66,3 +66,6 @@ export default function UsersList({ data }) {
 ### Predefined sizes
    
 `xs` `sm` `base` `lg` `xl` `2xl` `3xl` `4xl` `5xl` 
+
+
+![sizes](https://github.com/thejellyfish/feather-icons/raw/master/icon-sizes.png)
