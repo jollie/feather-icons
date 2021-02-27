@@ -12,6 +12,7 @@ install:
 
 script:
 - yarn test
+- yarn build
 - yarn coverage
 
 before_deploy:
