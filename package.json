@@ -1,0 +1,49 @@
+{
+  "name": "@jollie/feather-icons",
+  "description": "React SVG Feather icons",
+  "keywords": [
+    "react",
+    "feather",
+    "icons",
+    "svg"
+  ],
+  "license": "MIT",
+  "author": "Mohamed BENARROUDJ <mohamed@jollie.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "codecov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.8",
+    "@babel/preset-react": "^7.12.13",
+    "babel-jest": "^26.6.3",
+    "codecov": "^3.7.0",
+    "jest": "^26.6.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-test-renderer": "^17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejellyfish/feather-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thejellyfish/feather-icons/issues"
+  },
+  "homepage": "https://github.com/thejellyfish/feather-icons#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "index.js"
+    ],
+    "coverageReporters": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
