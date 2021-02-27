@@ -57,11 +57,11 @@ export default function UsersList({ data }) {
 
 ### Params
 
-| Prop         | Type                  | Default                        |
-|:-------------|:----------------------|:-------------------------------|
-| `size`       | `string` or `integer` | predefined size or pixel value | 
-| `strokeWidth`| `integer`             | `2`                            |
-| `fill`       | `string`              | `none`                         |
+| Prop         | Type                  | Default                               |
+|:-------------|:----------------------|:--------------------------------------|
+| `size`       | `string` or `integer` | `base` predefined size or pixel value | 
+| `strokeWidth`| `integer`             | `2`                                   |
+| `fill`       | `string`              | `none`                                |
 
 ### Predefined sizes
    
