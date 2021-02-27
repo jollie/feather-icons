@@ -54,10 +54,10 @@ export default function UsersList({ data }) {
 };
 
 // Sizing
-<IconFeather size="xl" />
+const FeatherXL = () => <IconFeather size="xl" />;
 
 // Tailwindcss
-<IconTrash className="text-red-700" />
+const IconTailwindClass = () => <IconTrash className="text-red-700" />;
 ```
 
 ### Params
