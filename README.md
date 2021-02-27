@@ -7,8 +7,8 @@
 
 # Feather icons
 
-Feather icons for React.    
-See https://feathericons.com    
+Feather SVG icons for React.    
+To search an icon, see https://feathericons.com    
 
 ### Install
 
@@ -53,6 +53,11 @@ export default function UsersList({ data }) {
   );
 };
 
+// Sizing
+<IconFeather size="xl" />
+
+// Tailwindcss
+<IconTrash className="text-red-700" />
 ```
 
 ### Params
