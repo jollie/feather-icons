@@ -1,6 +1,6 @@
 [![Version](https://img.shields.io/npm/v/@jollie/feather-icons)](https://www.npmjs.com/package/@jollie/feather-icons)
 [![Licence](https://img.shields.io/npm/l/@jollie/feather-icons)](https://en.wikipedia.org/wiki/MIT_license)
-[![Build](https://img.shields.io/travis/thejellyfish/feather-icons)](https://travis-ci.com/github/thejellyfish/feather-icons)
+[![Build](https://img.shields.io/travis/com/thejellyfish/feather-icons)](https://travis-ci.com/github/thejellyfish/feather-icons)
 [![Coverage](https://img.shields.io/codecov/c/github/thejellyfish/feather-icons)](https://codecov.io/gh/thejellyfish/feather-icons)
 [![Downloads](https://img.shields.io/npm/dt/@jollie/feather-icons)](https://www.npmjs.com/package/@jollie/feather-icons)
 
