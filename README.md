@@ -26,31 +26,7 @@ npm install @jollie/feather-icons
 
 ```javascript
 import React from 'react';
-import { IconEdit, IconTrash } from '@jollie/feather-icons';
-
-export default function UsersList({ data }) {
-  return (
-    <table>
-      <tr>
-        <th>Email</th>
-        <th>Actions</th>
-      </tr>
-      {data.map(({ email }) => (
-        <tr key={email}>
-          <td>{email}</td>
-          <td>
-            <button type="button">
-              <IconEdit style={{ color: 'blue' }} />
-            </button>
-            <button type="button">
-              <IconTrash style={{ color: 'red' }} />
-            </button>
-          </td>
-        </tr>
-      ))}
-    </table>
-  );
-};
+import { IconEdit, IconFeather, IconHeart, IconTrash } from '@jollie/feather-icons';
 
 // Sizing
 const FeatherXL = () => <IconFeather size="xl" />;
@@ -59,6 +35,10 @@ const Feather256 = () => <IconFeather size={256} />;
 // Fill & stroke
 const Heart = () => <IconHeart fill="red" />;
 const FatIcon = () => <IconFeather strokeWidth={5} />;
+
+// Colors
+const EditButton = () => <IconEdit style={{ color: 'blue' }} />;
+const DeleteButton = () => <IconTrash style={{ color: 'red' }} />;
 
 // Tailwindcss
 const IconTailwindClass = () => <IconTrash className="text-red-700" />;
