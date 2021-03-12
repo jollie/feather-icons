@@ -30,7 +30,6 @@ import { IconEdit, IconTrash } from '@jollie/feather-icons';
 
 export default function UsersList({ data }) {
   return (
-    <h2>Users list</h2>
     <table>
       <tr>
         <th>Email</th>
