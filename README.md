@@ -45,7 +45,8 @@ const IconTailwindClass = () => <IconTrash className="text-red-700" />;
 ```
 
 ```javascript
-//  Import all icons
+// Example import all icons
+import React from 'react';
 import * as Feather from '@jollie/feather-icons';
 
 const DeleteButton = () => <Feather.IconTrash style={{ color: 'red' }} />;
