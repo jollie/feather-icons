@@ -26,7 +26,7 @@ npm install @jollie/feather-icons
 
 ```javascript
 import React from 'react';
-import { IconEdit, IconFeather, IconHeart, IconTrash } from '@jollie/feather-icons';
+import { IconFeather, IconHeart, IconTrash } from '@jollie/feather-icons';
 
 // Sizing
 const FeatherXL = () => <IconFeather size="xl" />;
@@ -37,11 +37,17 @@ const Heart = () => <IconHeart fill="red" />;
 const FatIcon = () => <IconFeather strokeWidth={5} />;
 
 // Colors
-const EditButton = () => <IconEdit style={{ color: 'blue' }} />;
 const DeleteButton = () => <IconTrash style={{ color: 'red' }} />;
 
 // Tailwindcss
 const IconTailwindClass = () => <IconTrash className="text-red-700" />;
+
+//  Import all icons
+import * as Feather from '@jollie/feather-icons';
+
+const DeleteButton = () => <Feather.IconTrash style={{ color: 'red' }} />;
+const EditButton = () => <Feather.IconEdit style={{ color: 'red' }} />;
+
 ```
 
 ### Params
