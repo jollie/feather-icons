@@ -42,6 +42,9 @@ const DeleteButton = () => <IconTrash style={{ color: 'red' }} />;
 // Tailwindcss
 const IconTailwindClass = () => <IconTrash className="text-red-700" />;
 
+```
+
+```javascript
 //  Import all icons
 import * as Feather from '@jollie/feather-icons';
 
@@ -49,6 +52,7 @@ const DeleteButton = () => <Feather.IconTrash style={{ color: 'red' }} />;
 const EditButton = () => <Feather.IconEdit style={{ color: 'red' }} />;
 
 ```
+
 
 ### Params
 
