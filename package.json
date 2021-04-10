@@ -8,7 +8,7 @@
     "svg"
   ],
   "license": "MIT",
-  "author": "Mohamed BENARROUDJ <mohamed@jollie.com>",
+  "author": "Mohamed BENARROUDJ <mohamed@facturebook.com>",
   "main": "build/index.js",
   "scripts": {
     "test": "jest",
