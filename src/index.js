@@ -1,289 +1,289 @@
-import IconActivity from './icons/activity';
-import IconAirplay from './icons/airplay';
-import IconAlertCircle from './icons/alert-circle';
-import IconAlertOctagon from './icons/alert-octagon';
-import IconAlertTriangle from './icons/alert-triangle';
-import IconAlignCenter from './icons/align-center';
-import IconAlignJustify from './icons/align-justify';
-import IconAlignLeft from './icons/align-left';
-import IconAlignRight from './icons/align-right';
-import IconAnchor from './icons/anchor';
-import IconAperture from './icons/aperture';
-import IconArchive from './icons/archive';
-import IconArrowDownCircle from './icons/arrow-down-circle';
-import IconArrowDownLeft from './icons/arrow-down-left';
-import IconArrowDownRight from './icons/arrow-down-right';
-import IconArrowDown from './icons/arrow-down';
-import IconArrowLeftCircle from './icons/arrow-left-circle';
-import IconArrowLeft from './icons/arrow-left';
-import IconArrowRightCircle from './icons/arrow-right-circle';
-import IconArrowRight from './icons/arrow-right';
-import IconArrowUpCircle from './icons/arrow-up-circle';
-import IconArrowUpLeft from './icons/arrow-up-left';
-import IconArrowUpRight from './icons/arrow-up-right';
-import IconArrowUp from './icons/arrow-up';
-import IconAtSign from './icons/at-sign';
-import IconAward from './icons/award';
-import IconBarChart2 from './icons/bar-chart-2';
-import IconBarChart from './icons/bar-chart';
-import IconBatteryCharging from './icons/battery-charging';
-import IconBattery from './icons/battery';
-import IconBellOff from './icons/bell-off';
-import IconBell from './icons/bell';
-import IconBluetooth from './icons/bluetooth';
-import IconBold from './icons/bold';
-import IconBookOpen from './icons/book-open';
-import IconBook from './icons/book';
-import IconBookmark from './icons/bookmark';
-import IconBox from './icons/box';
-import IconBriefcase from './icons/briefcase';
-import IconCalendar from './icons/calendar';
-import IconCameraOff from './icons/camera-off';
-import IconCamera from './icons/camera';
-import IconCast from './icons/cast';
-import IconCheckCircle from './icons/check-circle';
-import IconCheckSquare from './icons/check-square';
-import IconCheck from './icons/check';
-import IconChevronDown from './icons/chevron-down';
-import IconChevronLeft from './icons/chevron-left';
-import IconChevronRight from './icons/chevron-right';
-import IconChevronUp from './icons/chevron-up';
-import IconChevronsDown from './icons/chevrons-down';
-import IconChevronsLeft from './icons/chevrons-left';
-import IconChevronsRight from './icons/chevrons-right';
-import IconChevronsUp from './icons/chevrons-up';
-import IconChrome from './icons/chrome';
-import IconCircle from './icons/circle';
-import IconClipboard from './icons/clipboard';
-import IconClock from './icons/clock';
-import IconCloudDrizzle from './icons/cloud-drizzle';
-import IconCloudLightning from './icons/cloud-lightning';
-import IconCloudOff from './icons/cloud-off';
-import IconCloudRain from './icons/cloud-rain';
-import IconCloudSnow from './icons/cloud-snow';
-import IconCloud from './icons/cloud';
-import IconCode from './icons/code';
-import IconCodepen from './icons/codepen';
-import IconCodesandbox from './icons/codesandbox';
-import IconCoffee from './icons/coffee';
-import IconColumns from './icons/columns';
-import IconCommand from './icons/command';
-import IconCompass from './icons/compass';
-import IconCopy from './icons/copy';
-import IconCornerDownLeft from './icons/corner-down-left';
-import IconCornerDownRight from './icons/corner-down-right';
-import IconCornerLeftDown from './icons/corner-left-down';
-import IconCornerLeftUp from './icons/corner-left-up';
-import IconCornerRightDown from './icons/corner-right-down';
-import IconCornerRightUp from './icons/corner-right-up';
-import IconCornerUpLeft from './icons/corner-up-left';
-import IconCornerUpRight from './icons/corner-up-right';
-import IconCpu from './icons/cpu';
-import IconCreditCard from './icons/credit-card';
-import IconCrop from './icons/crop';
-import IconCrosshair from './icons/crosshair';
-import IconDatabase from './icons/database';
-import IconDelete from './icons/delete';
-import IconDisc from './icons/disc';
-import IconDivideCircle from './icons/divide-circle';
-import IconDivideSquare from './icons/divide-square';
-import IconDivide from './icons/divide';
-import IconDollarSign from './icons/dollar-sign';
-import IconDownloadCloud from './icons/download-cloud';
-import IconDownload from './icons/download';
-import IconDribbble from './icons/dribbble';
-import IconDroplet from './icons/droplet';
-import IconEdit2 from './icons/edit-2';
-import IconEdit3 from './icons/edit-3';
-import IconEdit from './icons/edit';
-import IconExternalLink from './icons/external-link';
-import IconEyeOff from './icons/eye-off';
-import IconEye from './icons/eye';
-import IconFacebook from './icons/facebook';
-import IconFastForward from './icons/fast-forward';
-import IconFeather from './icons/feather';
-import IconFigma from './icons/figma';
-import IconFileMinus from './icons/file-minus';
-import IconFilePlus from './icons/file-plus';
-import IconFileText from './icons/file-text';
-import IconFile from './icons/file';
-import IconFilm from './icons/film';
-import IconFilter from './icons/filter';
-import IconFlag from './icons/flag';
-import IconFolderMinus from './icons/folder-minus';
-import IconFolderPlus from './icons/folder-plus';
-import IconFolder from './icons/folder';
-import IconFramer from './icons/framer';
-import IconFrown from './icons/frown';
-import IconGift from './icons/gift';
-import IconGitBranch from './icons/git-branch';
-import IconGitCommit from './icons/git-commit';
-import IconGitMerge from './icons/git-merge';
-import IconGitPullRequest from './icons/git-pull-request';
-import IconGithub from './icons/github';
-import IconGitlab from './icons/gitlab';
-import IconGlobe from './icons/globe';
-import IconGrid from './icons/grid';
-import IconHardDrive from './icons/hard-drive';
-import IconHash from './icons/hash';
-import IconHeadphones from './icons/headphones';
-import IconHeart from './icons/heart';
-import IconHelpCircle from './icons/help-circle';
-import IconHexagon from './icons/hexagon';
-import IconHome from './icons/home';
-import IconImage from './icons/image';
-import IconInbox from './icons/inbox';
-import IconInfo from './icons/info';
-import IconInstagram from './icons/instagram';
-import IconItalic from './icons/italic';
-import IconKey from './icons/key';
-import IconLayers from './icons/layers';
-import IconLayout from './icons/layout';
-import IconLifeBuoy from './icons/life-buoy';
-import IconLink2 from './icons/link-2';
-import IconLink from './icons/link';
-import IconLinkedin from './icons/linkedin';
-import IconList from './icons/list';
-import IconLoader from './icons/loader';
-import IconLock from './icons/lock';
-import IconLogIn from './icons/log-in';
-import IconLogOut from './icons/log-out';
-import IconMail from './icons/mail';
-import IconMapPin from './icons/map-pin';
-import IconMap from './icons/map';
-import IconMaximize2 from './icons/maximize-2';
-import IconMaximize from './icons/maximize';
-import IconMeh from './icons/meh';
-import IconMenu from './icons/menu';
-import IconMessageCircle from './icons/message-circle';
-import IconMessageSquare from './icons/message-square';
-import IconMicOff from './icons/mic-off';
-import IconMic from './icons/mic';
-import IconMinimize2 from './icons/minimize-2';
-import IconMinimize from './icons/minimize';
-import IconMinusCircle from './icons/minus-circle';
-import IconMinusSquare from './icons/minus-square';
-import IconMinus from './icons/minus';
-import IconMonitor from './icons/monitor';
-import IconMoon from './icons/moon';
-import IconMoreHorizontal from './icons/more-horizontal';
-import IconMoreVertical from './icons/more-vertical';
-import IconMousePointer from './icons/mouse-pointer';
-import IconMove from './icons/move';
-import IconMusic from './icons/music';
-import IconNavigation2 from './icons/navigation-2';
-import IconNavigation from './icons/navigation';
-import IconOctagon from './icons/octagon';
-import IconPackage from './icons/package';
-import IconPaperclip from './icons/paperclip';
-import IconPauseCircle from './icons/pause-circle';
-import IconPause from './icons/pause';
-import IconPenTool from './icons/pen-tool';
-import IconPercent from './icons/percent';
-import IconPhoneCall from './icons/phone-call';
-import IconPhoneForwarded from './icons/phone-forwarded';
-import IconPhoneIncoming from './icons/phone-incoming';
-import IconPhoneMissed from './icons/phone-missed';
-import IconPhoneOff from './icons/phone-off';
-import IconPhoneOutgoing from './icons/phone-outgoing';
-import IconPhone from './icons/phone';
-import IconPieChart from './icons/pie-chart';
-import IconPlayCircle from './icons/play-circle';
-import IconPlay from './icons/play';
-import IconPlusCircle from './icons/plus-circle';
-import IconPlusSquare from './icons/plus-square';
-import IconPlus from './icons/plus';
-import IconPocket from './icons/pocket';
-import IconPower from './icons/power';
-import IconPrinter from './icons/printer';
-import IconRadio from './icons/radio';
-import IconRefreshCcw from './icons/refresh-ccw';
-import IconRefreshCw from './icons/refresh-cw';
-import IconRepeat from './icons/repeat';
-import IconRewind from './icons/rewind';
-import IconRotateCcw from './icons/rotate-ccw';
-import IconRotateCw from './icons/rotate-cw';
-import IconRss from './icons/rss';
-import IconSave from './icons/save';
-import IconScissors from './icons/scissors';
-import IconSearch from './icons/search';
-import IconSend from './icons/send';
-import IconServer from './icons/server';
-import IconSettings from './icons/settings';
-import IconShare2 from './icons/share-2';
-import IconShare from './icons/share';
-import IconShieldOff from './icons/shield-off';
-import IconShield from './icons/shield';
-import IconShoppingBag from './icons/shopping-bag';
-import IconShoppingCart from './icons/shopping-cart';
-import IconShuffle from './icons/shuffle';
-import IconSidebar from './icons/sidebar';
-import IconSkipBack from './icons/skip-back';
-import IconSkipForward from './icons/skip-forward';
-import IconSlack from './icons/slack';
-import IconSlash from './icons/slash';
-import IconSliders from './icons/sliders';
-import IconSmartphone from './icons/smartphone';
-import IconSmile from './icons/smile';
-import IconSpeaker from './icons/speaker';
-import IconSquare from './icons/square';
-import IconStar from './icons/star';
-import IconStopCircle from './icons/stop-circle';
-import IconSun from './icons/sun';
-import IconSunrise from './icons/sunrise';
-import IconSunset from './icons/sunset';
-import IconTablet from './icons/tablet';
-import IconTag from './icons/tag';
-import IconTarget from './icons/target';
-import IconTerminal from './icons/terminal';
-import IconThermometer from './icons/thermometer';
-import IconThumbsDown from './icons/thumbs-down';
-import IconThumbsUp from './icons/thumbs-up';
-import IconToggleLeft from './icons/toggle-left';
-import IconToggleRight from './icons/toggle-right';
-import IconTool from './icons/tool';
-import IconTrash2 from './icons/trash-2';
-import IconTrash from './icons/trash';
-import IconTrello from './icons/trello';
-import IconTrendingDown from './icons/trending-down';
-import IconTrendingUp from './icons/trending-up';
-import IconTriangle from './icons/triangle';
-import IconTruck from './icons/truck';
-import IconTv from './icons/tv';
-import IconTwitch from './icons/twitch';
-import IconTwitter from './icons/twitter';
-import IconType from './icons/type';
-import IconUmbrella from './icons/umbrella';
-import IconUnderline from './icons/underline';
-import IconUnlock from './icons/unlock';
-import IconUploadCloud from './icons/upload-cloud';
-import IconUpload from './icons/upload';
-import IconUserCheck from './icons/user-check';
-import IconUserMinus from './icons/user-minus';
-import IconUserPlus from './icons/user-plus';
-import IconUserX from './icons/user-x';
-import IconUser from './icons/user';
-import IconUsers from './icons/users';
-import IconVideoOff from './icons/video-off';
-import IconVideo from './icons/video';
-import IconVoicemail from './icons/voicemail';
-import IconVolume1 from './icons/volume-1';
-import IconVolume2 from './icons/volume-2';
-import IconVolumeX from './icons/volume-x';
-import IconVolume from './icons/volume';
-import IconWatch from './icons/watch';
-import IconWifiOff from './icons/wifi-off';
-import IconWifi from './icons/wifi';
-import IconWind from './icons/wind';
-import IconXCircle from './icons/x-circle';
-import IconXOctagon from './icons/x-octagon';
-import IconXSquare from './icons/x-square';
-import IconX from './icons/x';
-import IconYoutube from './icons/youtube';
-import IconZapOff from './icons/zap-off';
-import IconZap from './icons/zap';
-import IconZoomIn from './icons/zoom-in';
-import IconZoomOut from './icons/zoom-out';
+import IconActivity from './icons/IconActivity';
+import IconAirplay from './icons/IconAirplay';
+import IconAlertCircle from './icons/IconAlertCircle';
+import IconAlertOctagon from './icons/IconAlertOctagon';
+import IconAlertTriangle from './icons/IconAlertTriangle';
+import IconAlignCenter from './icons/IconAlignCenter';
+import IconAlignJustify from './icons/IconAlignJustify';
+import IconAlignLeft from './icons/IconAlignLeft';
+import IconAlignRight from './icons/IconAlignRight';
+import IconAnchor from './icons/IconAnchor';
+import IconAperture from './icons/IconAperture';
+import IconArchive from './icons/IconArchive';
+import IconArrowDown from './icons/IconArrowDown';
+import IconArrowDownCircle from './icons/IconArrowDownCircle';
+import IconArrowDownLeft from './icons/IconArrowDownLeft';
+import IconArrowDownRight from './icons/IconArrowDownRight';
+import IconArrowLeft from './icons/IconArrowLeft';
+import IconArrowLeftCircle from './icons/IconArrowLeftCircle';
+import IconArrowRight from './icons/IconArrowRight';
+import IconArrowRightCircle from './icons/IconArrowRightCircle';
+import IconArrowUp from './icons/IconArrowUp';
+import IconArrowUpCircle from './icons/IconArrowUpCircle';
+import IconArrowUpLeft from './icons/IconArrowUpLeft';
+import IconArrowUpRight from './icons/IconArrowUpRight';
+import IconAtSign from './icons/IconAtSign';
+import IconAward from './icons/IconAward';
+import IconBarChart from './icons/IconBarChart';
+import IconBarChart2 from './icons/IconBarChart2';
+import IconBattery from './icons/IconBattery';
+import IconBatteryCharging from './icons/IconBatteryCharging';
+import IconBell from './icons/IconBell';
+import IconBellOff from './icons/IconBellOff';
+import IconBluetooth from './icons/IconBluetooth';
+import IconBold from './icons/IconBold';
+import IconBook from './icons/IconBook';
+import IconBookOpen from './icons/IconBookOpen';
+import IconBookmark from './icons/IconBookmark';
+import IconBox from './icons/IconBox';
+import IconBriefcase from './icons/IconBriefcase';
+import IconCalendar from './icons/IconCalendar';
+import IconCamera from './icons/IconCamera';
+import IconCameraOff from './icons/IconCameraOff';
+import IconCast from './icons/IconCast';
+import IconCheck from './icons/IconCheck';
+import IconCheckCircle from './icons/IconCheckCircle';
+import IconCheckSquare from './icons/IconCheckSquare';
+import IconChevronDown from './icons/IconChevronDown';
+import IconChevronLeft from './icons/IconChevronLeft';
+import IconChevronRight from './icons/IconChevronRight';
+import IconChevronUp from './icons/IconChevronUp';
+import IconChevronsDown from './icons/IconChevronsDown';
+import IconChevronsLeft from './icons/IconChevronsLeft';
+import IconChevronsRight from './icons/IconChevronsRight';
+import IconChevronsUp from './icons/IconChevronsUp';
+import IconChrome from './icons/IconChrome';
+import IconCircle from './icons/IconCircle';
+import IconClipboard from './icons/IconClipboard';
+import IconClock from './icons/IconClock';
+import IconCloud from './icons/IconCloud';
+import IconCloudDrizzle from './icons/IconCloudDrizzle';
+import IconCloudLightning from './icons/IconCloudLightning';
+import IconCloudOff from './icons/IconCloudOff';
+import IconCloudRain from './icons/IconCloudRain';
+import IconCloudSnow from './icons/IconCloudSnow';
+import IconCode from './icons/IconCode';
+import IconCodepen from './icons/IconCodepen';
+import IconCodesandbox from './icons/IconCodesandbox';
+import IconCoffee from './icons/IconCoffee';
+import IconColumns from './icons/IconColumns';
+import IconCommand from './icons/IconCommand';
+import IconCompass from './icons/IconCompass';
+import IconCopy from './icons/IconCopy';
+import IconCornerDownLeft from './icons/IconCornerDownLeft';
+import IconCornerDownRight from './icons/IconCornerDownRight';
+import IconCornerLeftDown from './icons/IconCornerLeftDown';
+import IconCornerLeftUp from './icons/IconCornerLeftUp';
+import IconCornerRightDown from './icons/IconCornerRightDown';
+import IconCornerRightUp from './icons/IconCornerRightUp';
+import IconCornerUpLeft from './icons/IconCornerUpLeft';
+import IconCornerUpRight from './icons/IconCornerUpRight';
+import IconCpu from './icons/IconCpu';
+import IconCreditCard from './icons/IconCreditCard';
+import IconCrop from './icons/IconCrop';
+import IconCrosshair from './icons/IconCrosshair';
+import IconDatabase from './icons/IconDatabase';
+import IconDelete from './icons/IconDelete';
+import IconDisc from './icons/IconDisc';
+import IconDivide from './icons/IconDivide';
+import IconDivideCircle from './icons/IconDivideCircle';
+import IconDivideSquare from './icons/IconDivideSquare';
+import IconDollarSign from './icons/IconDollarSign';
+import IconDownload from './icons/IconDownload';
+import IconDownloadCloud from './icons/IconDownloadCloud';
+import IconDribbble from './icons/IconDribbble';
+import IconDroplet from './icons/IconDroplet';
+import IconEdit from './icons/IconEdit';
+import IconEdit2 from './icons/IconEdit2';
+import IconEdit3 from './icons/IconEdit3';
+import IconExternalLink from './icons/IconExternalLink';
+import IconEye from './icons/IconEye';
+import IconEyeOff from './icons/IconEyeOff';
+import IconFacebook from './icons/IconFacebook';
+import IconFastForward from './icons/IconFastForward';
+import IconFeather from './icons/IconFeather';
+import IconFigma from './icons/IconFigma';
+import IconFile from './icons/IconFile';
+import IconFileMinus from './icons/IconFileMinus';
+import IconFilePlus from './icons/IconFilePlus';
+import IconFileText from './icons/IconFileText';
+import IconFilm from './icons/IconFilm';
+import IconFilter from './icons/IconFilter';
+import IconFlag from './icons/IconFlag';
+import IconFolder from './icons/IconFolder';
+import IconFolderMinus from './icons/IconFolderMinus';
+import IconFolderPlus from './icons/IconFolderPlus';
+import IconFramer from './icons/IconFramer';
+import IconFrown from './icons/IconFrown';
+import IconGift from './icons/IconGift';
+import IconGitBranch from './icons/IconGitBranch';
+import IconGitCommit from './icons/IconGitCommit';
+import IconGitMerge from './icons/IconGitMerge';
+import IconGitPullRequest from './icons/IconGitPullRequest';
+import IconGithub from './icons/IconGithub';
+import IconGitlab from './icons/IconGitlab';
+import IconGlobe from './icons/IconGlobe';
+import IconGrid from './icons/IconGrid';
+import IconHardDrive from './icons/IconHardDrive';
+import IconHash from './icons/IconHash';
+import IconHeadphones from './icons/IconHeadphones';
+import IconHeart from './icons/IconHeart';
+import IconHelpCircle from './icons/IconHelpCircle';
+import IconHexagon from './icons/IconHexagon';
+import IconHome from './icons/IconHome';
+import IconImage from './icons/IconImage';
+import IconInbox from './icons/IconInbox';
+import IconInfo from './icons/IconInfo';
+import IconInstagram from './icons/IconInstagram';
+import IconItalic from './icons/IconItalic';
+import IconKey from './icons/IconKey';
+import IconLayers from './icons/IconLayers';
+import IconLayout from './icons/IconLayout';
+import IconLifeBuoy from './icons/IconLifeBuoy';
+import IconLink from './icons/IconLink';
+import IconLink2 from './icons/IconLink2';
+import IconLinkedin from './icons/IconLinkedin';
+import IconList from './icons/IconList';
+import IconLoader from './icons/IconLoader';
+import IconLock from './icons/IconLock';
+import IconLogIn from './icons/IconLogIn';
+import IconLogOut from './icons/IconLogOut';
+import IconMail from './icons/IconMail';
+import IconMap from './icons/IconMap';
+import IconMapPin from './icons/IconMapPin';
+import IconMaximize from './icons/IconMaximize';
+import IconMaximize2 from './icons/IconMaximize2';
+import IconMeh from './icons/IconMeh';
+import IconMenu from './icons/IconMenu';
+import IconMessageCircle from './icons/IconMessageCircle';
+import IconMessageSquare from './icons/IconMessageSquare';
+import IconMic from './icons/IconMic';
+import IconMicOff from './icons/IconMicOff';
+import IconMinimize from './icons/IconMinimize';
+import IconMinimize2 from './icons/IconMinimize2';
+import IconMinus from './icons/IconMinus';
+import IconMinusCircle from './icons/IconMinusCircle';
+import IconMinusSquare from './icons/IconMinusSquare';
+import IconMonitor from './icons/IconMonitor';
+import IconMoon from './icons/IconMoon';
+import IconMoreHorizontal from './icons/IconMoreHorizontal';
+import IconMoreVertical from './icons/IconMoreVertical';
+import IconMousePointer from './icons/IconMousePointer';
+import IconMove from './icons/IconMove';
+import IconMusic from './icons/IconMusic';
+import IconNavigation from './icons/IconNavigation';
+import IconNavigation2 from './icons/IconNavigation2';
+import IconOctagon from './icons/IconOctagon';
+import IconPackage from './icons/IconPackage';
+import IconPaperclip from './icons/IconPaperclip';
+import IconPause from './icons/IconPause';
+import IconPauseCircle from './icons/IconPauseCircle';
+import IconPenTool from './icons/IconPenTool';
+import IconPercent from './icons/IconPercent';
+import IconPhone from './icons/IconPhone';
+import IconPhoneCall from './icons/IconPhoneCall';
+import IconPhoneForwarded from './icons/IconPhoneForwarded';
+import IconPhoneIncoming from './icons/IconPhoneIncoming';
+import IconPhoneMissed from './icons/IconPhoneMissed';
+import IconPhoneOff from './icons/IconPhoneOff';
+import IconPhoneOutgoing from './icons/IconPhoneOutgoing';
+import IconPieChart from './icons/IconPieChart';
+import IconPlay from './icons/IconPlay';
+import IconPlayCircle from './icons/IconPlayCircle';
+import IconPlus from './icons/IconPlus';
+import IconPlusCircle from './icons/IconPlusCircle';
+import IconPlusSquare from './icons/IconPlusSquare';
+import IconPocket from './icons/IconPocket';
+import IconPower from './icons/IconPower';
+import IconPrinter from './icons/IconPrinter';
+import IconRadio from './icons/IconRadio';
+import IconRefreshCcw from './icons/IconRefreshCcw';
+import IconRefreshCw from './icons/IconRefreshCw';
+import IconRepeat from './icons/IconRepeat';
+import IconRewind from './icons/IconRewind';
+import IconRotateCcw from './icons/IconRotateCcw';
+import IconRotateCw from './icons/IconRotateCw';
+import IconRss from './icons/IconRss';
+import IconSave from './icons/IconSave';
+import IconScissors from './icons/IconScissors';
+import IconSearch from './icons/IconSearch';
+import IconSend from './icons/IconSend';
+import IconServer from './icons/IconServer';
+import IconSettings from './icons/IconSettings';
+import IconShare from './icons/IconShare';
+import IconShare2 from './icons/IconShare2';
+import IconShield from './icons/IconShield';
+import IconShieldOff from './icons/IconShieldOff';
+import IconShoppingBag from './icons/IconShoppingBag';
+import IconShoppingCart from './icons/IconShoppingCart';
+import IconShuffle from './icons/IconShuffle';
+import IconSidebar from './icons/IconSidebar';
+import IconSkipBack from './icons/IconSkipBack';
+import IconSkipForward from './icons/IconSkipForward';
+import IconSlack from './icons/IconSlack';
+import IconSlash from './icons/IconSlash';
+import IconSliders from './icons/IconSliders';
+import IconSmartphone from './icons/IconSmartphone';
+import IconSmile from './icons/IconSmile';
+import IconSpeaker from './icons/IconSpeaker';
+import IconSquare from './icons/IconSquare';
+import IconStar from './icons/IconStar';
+import IconStopCircle from './icons/IconStopCircle';
+import IconSun from './icons/IconSun';
+import IconSunrise from './icons/IconSunrise';
+import IconSunset from './icons/IconSunset';
+import IconTablet from './icons/IconTablet';
+import IconTag from './icons/IconTag';
+import IconTarget from './icons/IconTarget';
+import IconTerminal from './icons/IconTerminal';
+import IconThermometer from './icons/IconThermometer';
+import IconThumbsDown from './icons/IconThumbsDown';
+import IconThumbsUp from './icons/IconThumbsUp';
+import IconToggleLeft from './icons/IconToggleLeft';
+import IconToggleRight from './icons/IconToggleRight';
+import IconTool from './icons/IconTool';
+import IconTrash from './icons/IconTrash';
+import IconTrash2 from './icons/IconTrash2';
+import IconTrello from './icons/IconTrello';
+import IconTrendingDown from './icons/IconTrendingDown';
+import IconTrendingUp from './icons/IconTrendingUp';
+import IconTriangle from './icons/IconTriangle';
+import IconTruck from './icons/IconTruck';
+import IconTv from './icons/IconTv';
+import IconTwitch from './icons/IconTwitch';
+import IconTwitter from './icons/IconTwitter';
+import IconType from './icons/IconType';
+import IconUmbrella from './icons/IconUmbrella';
+import IconUnderline from './icons/IconUnderline';
+import IconUnlock from './icons/IconUnlock';
+import IconUpload from './icons/IconUpload';
+import IconUploadCloud from './icons/IconUploadCloud';
+import IconUser from './icons/IconUser';
+import IconUserCheck from './icons/IconUserCheck';
+import IconUserMinus from './icons/IconUserMinus';
+import IconUserPlus from './icons/IconUserPlus';
+import IconUserX from './icons/IconUserX';
+import IconUsers from './icons/IconUsers';
+import IconVideo from './icons/IconVideo';
+import IconVideoOff from './icons/IconVideoOff';
+import IconVoicemail from './icons/IconVoicemail';
+import IconVolume from './icons/IconVolume';
+import IconVolume1 from './icons/IconVolume1';
+import IconVolume2 from './icons/IconVolume2';
+import IconVolumeX from './icons/IconVolumeX';
+import IconWatch from './icons/IconWatch';
+import IconWifi from './icons/IconWifi';
+import IconWifiOff from './icons/IconWifiOff';
+import IconWind from './icons/IconWind';
+import IconX from './icons/IconX';
+import IconXCircle from './icons/IconXCircle';
+import IconXOctagon from './icons/IconXOctagon';
+import IconXSquare from './icons/IconXSquare';
+import IconYoutube from './icons/IconYoutube';
+import IconZap from './icons/IconZap';
+import IconZapOff from './icons/IconZapOff';
+import IconZoomIn from './icons/IconZoomIn';
+import IconZoomOut from './icons/IconZoomOut';
 
 /* eslint-disable import/prefer-default-export */
 export {
@@ -299,40 +299,40 @@ export {
   IconAnchor,
   IconAperture,
   IconArchive,
+  IconArrowDown,
   IconArrowDownCircle,
   IconArrowDownLeft,
   IconArrowDownRight,
-  IconArrowDown,
-  IconArrowLeftCircle,
   IconArrowLeft,
-  IconArrowRightCircle,
+  IconArrowLeftCircle,
   IconArrowRight,
+  IconArrowRightCircle,
+  IconArrowUp,
   IconArrowUpCircle,
   IconArrowUpLeft,
   IconArrowUpRight,
-  IconArrowUp,
   IconAtSign,
   IconAward,
-  IconBarChart2,
   IconBarChart,
-  IconBatteryCharging,
+  IconBarChart2,
   IconBattery,
-  IconBellOff,
+  IconBatteryCharging,
   IconBell,
+  IconBellOff,
   IconBluetooth,
   IconBold,
-  IconBookOpen,
   IconBook,
+  IconBookOpen,
   IconBookmark,
   IconBox,
   IconBriefcase,
   IconCalendar,
-  IconCameraOff,
   IconCamera,
+  IconCameraOff,
   IconCast,
+  IconCheck,
   IconCheckCircle,
   IconCheckSquare,
-  IconCheck,
   IconChevronDown,
   IconChevronLeft,
   IconChevronRight,
@@ -345,12 +345,12 @@ export {
   IconCircle,
   IconClipboard,
   IconClock,
+  IconCloud,
   IconCloudDrizzle,
   IconCloudLightning,
   IconCloudOff,
   IconCloudRain,
   IconCloudSnow,
-  IconCloud,
   IconCode,
   IconCodepen,
   IconCodesandbox,
@@ -374,34 +374,34 @@ export {
   IconDatabase,
   IconDelete,
   IconDisc,
+  IconDivide,
   IconDivideCircle,
   IconDivideSquare,
-  IconDivide,
   IconDollarSign,
-  IconDownloadCloud,
   IconDownload,
+  IconDownloadCloud,
   IconDribbble,
   IconDroplet,
+  IconEdit,
   IconEdit2,
   IconEdit3,
-  IconEdit,
   IconExternalLink,
-  IconEyeOff,
   IconEye,
+  IconEyeOff,
   IconFacebook,
   IconFastForward,
   IconFeather,
   IconFigma,
+  IconFile,
   IconFileMinus,
   IconFilePlus,
   IconFileText,
-  IconFile,
   IconFilm,
   IconFilter,
   IconFlag,
+  IconFolder,
   IconFolderMinus,
   IconFolderPlus,
-  IconFolder,
   IconFramer,
   IconFrown,
   IconGift,
@@ -429,8 +429,8 @@ export {
   IconLayers,
   IconLayout,
   IconLifeBuoy,
-  IconLink2,
   IconLink,
+  IconLink2,
   IconLinkedin,
   IconList,
   IconLoader,
@@ -438,21 +438,21 @@ export {
   IconLogIn,
   IconLogOut,
   IconMail,
-  IconMapPin,
   IconMap,
-  IconMaximize2,
+  IconMapPin,
   IconMaximize,
+  IconMaximize2,
   IconMeh,
   IconMenu,
   IconMessageCircle,
   IconMessageSquare,
-  IconMicOff,
   IconMic,
-  IconMinimize2,
+  IconMicOff,
   IconMinimize,
+  IconMinimize2,
+  IconMinus,
   IconMinusCircle,
   IconMinusSquare,
-  IconMinus,
   IconMonitor,
   IconMoon,
   IconMoreHorizontal,
@@ -460,28 +460,28 @@ export {
   IconMousePointer,
   IconMove,
   IconMusic,
-  IconNavigation2,
   IconNavigation,
+  IconNavigation2,
   IconOctagon,
   IconPackage,
   IconPaperclip,
-  IconPauseCircle,
   IconPause,
+  IconPauseCircle,
   IconPenTool,
   IconPercent,
+  IconPhone,
   IconPhoneCall,
   IconPhoneForwarded,
   IconPhoneIncoming,
   IconPhoneMissed,
   IconPhoneOff,
   IconPhoneOutgoing,
-  IconPhone,
   IconPieChart,
-  IconPlayCircle,
   IconPlay,
+  IconPlayCircle,
+  IconPlus,
   IconPlusCircle,
   IconPlusSquare,
-  IconPlus,
   IconPocket,
   IconPower,
   IconPrinter,
@@ -499,10 +499,10 @@ export {
   IconSend,
   IconServer,
   IconSettings,
-  IconShare2,
   IconShare,
-  IconShieldOff,
+  IconShare2,
   IconShield,
+  IconShieldOff,
   IconShoppingBag,
   IconShoppingCart,
   IconShuffle,
@@ -531,8 +531,8 @@ export {
   IconToggleLeft,
   IconToggleRight,
   IconTool,
-  IconTrash2,
   IconTrash,
+  IconTrash2,
   IconTrello,
   IconTrendingDown,
   IconTrendingUp,
@@ -545,32 +545,32 @@ export {
   IconUmbrella,
   IconUnderline,
   IconUnlock,
-  IconUploadCloud,
   IconUpload,
+  IconUploadCloud,
+  IconUser,
   IconUserCheck,
   IconUserMinus,
   IconUserPlus,
   IconUserX,
-  IconUser,
   IconUsers,
-  IconVideoOff,
   IconVideo,
+  IconVideoOff,
   IconVoicemail,
+  IconVolume,
   IconVolume1,
   IconVolume2,
   IconVolumeX,
-  IconVolume,
   IconWatch,
-  IconWifiOff,
   IconWifi,
+  IconWifiOff,
   IconWind,
+  IconX,
   IconXCircle,
   IconXOctagon,
   IconXSquare,
-  IconX,
   IconYoutube,
-  IconZapOff,
   IconZap,
+  IconZapOff,
   IconZoomIn,
   IconZoomOut,
 };
