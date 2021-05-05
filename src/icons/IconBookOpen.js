@@ -10,4 +10,3 @@ export default function IconBookOpen(props) {
     </Icon>
   );
 }
-

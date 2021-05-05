@@ -9,4 +9,3 @@ export default function IconNavigation2(props) {
     </Icon>
   );
 }
-

@@ -9,4 +9,3 @@ export default function IconKey(props) {
     </Icon>
   );
 }
-

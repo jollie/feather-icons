@@ -9,4 +9,3 @@ export default function IconFramer(props) {
     </Icon>
   );
 }
-

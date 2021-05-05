@@ -9,4 +9,3 @@ export default function IconChevronDown(props) {
     </Icon>
   );
 }
-

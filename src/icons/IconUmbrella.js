@@ -9,4 +9,3 @@ export default function IconUmbrella(props) {
     </Icon>
   );
 }
-

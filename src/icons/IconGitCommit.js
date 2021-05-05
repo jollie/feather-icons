@@ -11,4 +11,3 @@ export default function IconGitCommit(props) {
     </Icon>
   );
 }
-

@@ -9,4 +9,3 @@ export default function IconActivity(props) {
     </Icon>
   );
 }
-

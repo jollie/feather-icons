@@ -9,4 +9,3 @@ export default function IconMaximize(props) {
     </Icon>
   );
 }
-

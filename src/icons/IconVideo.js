@@ -10,4 +10,3 @@ export default function IconVideo(props) {
     </Icon>
   );
 }
-

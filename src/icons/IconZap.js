@@ -9,4 +9,3 @@ export default function IconZap(props) {
     </Icon>
   );
 }
-

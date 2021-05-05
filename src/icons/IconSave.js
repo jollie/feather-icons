@@ -11,4 +11,3 @@ export default function IconSave(props) {
     </Icon>
   );
 }
-

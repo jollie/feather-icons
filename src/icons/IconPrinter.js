@@ -11,4 +11,3 @@ export default function IconPrinter(props) {
     </Icon>
   );
 }
-

@@ -10,4 +10,3 @@ export default function IconVolume2(props) {
     </Icon>
   );
 }
-

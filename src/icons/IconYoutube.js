@@ -10,4 +10,3 @@ export default function IconYoutube(props) {
     </Icon>
   );
 }
-

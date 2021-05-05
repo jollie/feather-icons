@@ -12,4 +12,3 @@ export default function IconMaximize2(props) {
     </Icon>
   );
 }
-

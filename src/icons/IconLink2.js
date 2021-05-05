@@ -10,4 +10,3 @@ export default function IconLink2(props) {
     </Icon>
   );
 }
-

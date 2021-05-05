@@ -10,4 +10,3 @@ export default function IconCompass(props) {
     </Icon>
   );
 }
-

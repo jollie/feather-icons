@@ -12,4 +12,3 @@ export default function IconMeh(props) {
     </Icon>
   );
 }
-

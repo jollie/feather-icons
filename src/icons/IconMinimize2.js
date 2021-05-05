@@ -12,4 +12,3 @@ export default function IconMinimize2(props) {
     </Icon>
   );
 }
-

@@ -11,4 +11,3 @@ export default function IconPhoneForwarded(props) {
     </Icon>
   );
 }
-

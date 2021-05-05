@@ -9,4 +9,3 @@ export default function IconFilter(props) {
     </Icon>
   );
 }
-

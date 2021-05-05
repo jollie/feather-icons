@@ -11,4 +11,3 @@ export default function IconXCircle(props) {
     </Icon>
   );
 }
-

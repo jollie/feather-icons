@@ -10,4 +10,3 @@ export default function IconEdit3(props) {
     </Icon>
   );
 }
-

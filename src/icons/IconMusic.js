@@ -11,4 +11,3 @@ export default function IconMusic(props) {
     </Icon>
   );
 }
-

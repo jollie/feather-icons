@@ -13,4 +13,3 @@ export default function IconMicOff(props) {
     </Icon>
   );
 }
-

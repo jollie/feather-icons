@@ -10,4 +10,3 @@ export default function IconTerminal(props) {
     </Icon>
   );
 }
-

@@ -9,4 +9,3 @@ export default function IconMessageCircle(props) {
     </Icon>
   );
 }
-

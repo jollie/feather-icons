@@ -10,4 +10,3 @@ export default function IconBold(props) {
     </Icon>
   );
 }
-

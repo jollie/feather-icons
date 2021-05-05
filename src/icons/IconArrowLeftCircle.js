@@ -11,4 +11,3 @@ export default function IconArrowLeftCircle(props) {
     </Icon>
   );
 }
-

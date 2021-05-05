@@ -13,4 +13,3 @@ export default function IconFigma(props) {
     </Icon>
   );
 }
-

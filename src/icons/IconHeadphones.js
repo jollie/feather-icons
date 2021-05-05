@@ -10,4 +10,3 @@ export default function IconHeadphones(props) {
     </Icon>
   );
 }
-

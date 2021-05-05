@@ -10,4 +10,3 @@ export default function IconTablet(props) {
     </Icon>
   );
 }
-

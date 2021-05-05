@@ -13,4 +13,3 @@ export default function IconShare2(props) {
     </Icon>
   );
 }
-

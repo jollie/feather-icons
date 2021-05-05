@@ -10,4 +10,3 @@ export default function IconChevronsLeft(props) {
     </Icon>
   );
 }
-

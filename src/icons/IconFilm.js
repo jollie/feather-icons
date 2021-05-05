@@ -16,4 +16,3 @@ export default function IconFilm(props) {
     </Icon>
   );
 }
-

@@ -13,4 +13,3 @@ export default function IconChrome(props) {
     </Icon>
   );
 }
-
